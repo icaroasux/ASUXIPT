@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0,BT Sport / ESPN [UK]
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:0,BT Sport 1 [UK]
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:0,BT Sport 2 [UK]
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:0,BT Sport 3 [UK]
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:0,Copa Plus
+acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
+#EXTINF:0,DAZN 1 Bar HD [DE]
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:0,Eleven Sports 1 [BE]
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:0,Eleven Sports 2 [BE]
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:0,Eleven Sports 3 [BE]
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:0,Eleven Sports 4 [BE]
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:0,Eleven Sports 5 [BE]
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:0,Eleven Sports 6 [BE]
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:0,M.Liga de Campeones 1
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:0,M.Liga de Campeones 2
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:0,M.Liga de Campeones 3
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:0,M.Liga de Campeones 4
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:0,M.Liga de Campeones 5
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:0,M.Liga de Campeones 6
+acestream://64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:0,M.Liga de Campeones 7
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:0,M.Liga de Campeones 8
+acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:0,M.Liga de Campeones 9
+acestream://7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:0,Sky Sport 1 [DE]
+acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
+#EXTINF:0,Sky Sport 2 [DE]
+acestream://ce4ae0c3491acd4272340029139ba25642e2516b
+#EXTINF:0,Sky Sport 3 [DE]
+acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
+#EXTINF:0,Sky Sport 4 [DE]
+acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
+#EXTINF:0,TV Bar ES
+acestream://512aeadf50d91603d15b32f1e408166536ec4ac9
+#EXTINF:0,TV Bar ES
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:0,Ziggo Sport
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:0,Ziggo Sport 2
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:0,Ziggo Sport 3
+acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:0,Ziggo Sport 6
+acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
